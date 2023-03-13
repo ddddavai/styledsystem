@@ -1,0 +1,4 @@
+{
+  "extends": "@ddddurk/configs/tsconfig.json",
+  "include": ["**/*.test.ts"]
+}
